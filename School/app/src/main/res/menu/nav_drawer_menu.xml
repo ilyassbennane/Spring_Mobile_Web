@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_filiere"
+        android:title="Filiere"/>
+    <item
+        android:id="@+id/nav_role"
+        android:title="Role"/>
+    <item
+        android:id="@+id/nav_student"
+        android:title="Student"/>
+    <item
+        android:id="@+id/nav_student_by_filiere"
+        android:title="Student By Filiere"/>
+    <item
+        android:id="@+id/affecterrole"
+        android:title="Affecter Role"/>
+</menu>
